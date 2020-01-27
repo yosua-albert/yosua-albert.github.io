@@ -19,3 +19,7 @@ I am currently a Doctoral student in the Department of Computer Science, School 
 * 2015-2017: M.Eng., Computer Science, Tokyo Institute of Technology, Japan
 * 2012-2014: M.B.A., Business Administration, Bandung Institute of Technology, Indonesia
 * 2003-2007: B.Comp., Computer Science, Bogor Institute of Agriculture, Indonesia
+
+# Working Experience
+
+* 2007-2015: Senior Software Engineer, Mitrais, Indonesia
